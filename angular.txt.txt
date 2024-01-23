@@ -1,1 +1,2 @@
 This is angular file
+It is component based architecture
