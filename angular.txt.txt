@@ -1,3 +1,4 @@
 this is angular file hello
 hello all
+It is typescript framw
 welcome
